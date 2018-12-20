@@ -1,5 +1,7 @@
 # one-year-of-calls
-A processing sketch that generates a data visualization consisting of one year's worth of cell phone use
+A processing sketch that generates a data visualization consisting of one year's worth of cell phone use.
+
+To run, download the processing IDE https://processing.org/download/
 
 ![Screenshot](YSDN4008_P2/data/thumbnail1.png)
 

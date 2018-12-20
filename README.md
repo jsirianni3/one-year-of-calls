@@ -1,7 +1,13 @@
 # one-year-of-calls
 A processing sketch that generates a data visualization consisting of one year's worth of cell phone use.
 
+### Dependencies
 To run, download the processing IDE https://processing.org/download/
+
+Requires the controlP5 library 
+>Sketch > Import Library > Add Library > Search for controlP5 > Install
+
+
 
 ![Screenshot](YSDN4008_P2/data/thumbnail1.png)
 
